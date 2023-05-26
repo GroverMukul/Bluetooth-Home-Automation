@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Bluetooth-Home-Automation/static/css/main.d0d98d6a.css",
+    "main.js": "/Bluetooth-Home-Automation/static/js/main.bf391c54.js",
+    "index.html": "/Bluetooth-Home-Automation/index.html",
+    "main.d0d98d6a.css.map": "/Bluetooth-Home-Automation/static/css/main.d0d98d6a.css.map",
+    "main.bf391c54.js.map": "/Bluetooth-Home-Automation/static/js/main.bf391c54.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0d98d6a.css",
+    "static/js/main.bf391c54.js"
+  ]
+}
